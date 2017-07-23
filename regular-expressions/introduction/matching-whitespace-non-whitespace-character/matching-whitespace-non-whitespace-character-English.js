@@ -1,0 +1,1 @@
+var Regex_Pattern = /(\S\S\s){2}\S\S/; //Do not delete '/'. Replace __________ with your regex. 

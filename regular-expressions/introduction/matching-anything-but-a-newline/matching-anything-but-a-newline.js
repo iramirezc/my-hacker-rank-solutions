@@ -1,0 +1,1 @@
+var Regex_Pattern = /.{3}\..{3}\..{3}\..{3}/g; //Do not delete '/' and 'g'. Replace __________ with your regex. 
